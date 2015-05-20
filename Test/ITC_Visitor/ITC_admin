@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Language.html">Language</a></td></tr>
+<tr><td><a href="../ITC_member/login_admin.html">login_admin</a></td></tr>
+<tr><td><a href="Activity_add.html">Activity_add</a></td></tr>
+<tr><td><a href="Activity_Edit.html">Activity_Edit</a></td></tr>
+<tr><td><a href="Activity_Delete.html">Activity_Delete</a></td></tr>
+<tr><td><a href="Gallery.html">Gallery</a></td></tr>
+<tr><td><a href="../ITC_member/History_admin.html">History_admin</a></td></tr>
+<tr><td><a href="../ITC_member/QA_answer_delete_admin.html">QA_answer_delete</a></td></tr>
+<tr><td><a href="Contact.html">Contact</a></td></tr>
+<tr><td><a href="Map.html">Map</a></td></tr>
+<tr><td><a href="Facebook.html">Facebook</a></td></tr>
+</tbody></table>
+</body>
+</html>
